@@ -1,0 +1,27 @@
+{ "camelcase": true
+, "curly": false
+, "eqeqeq": true
+, "immed": false
+, "indent": 2
+, "latedef": false
+, "newcap": true
+, "noempty": false
+, "nonew": true
+, "quotmark": "single"
+, "undef": true
+, "strict": false
+, "trailing": true
+
+, "asi": true
+, "eqnull": true
+, "evil": false
+, "laxbreak": true
+, "laxcomma": true
+, "devel": true
+, "es5": false
+
+, "browser": true
+, "node": true
+, "jquery": true
+
+}
